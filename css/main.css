@@ -33,14 +33,14 @@ nav ul li {
   border-radius: 3px;
 }
 
-a:hover {
-  background-color: #f33;
-}
-
 a {
   text-align: center;
   list-style-type: none;
   text-decoration: none;
   color: #fff;
   line-height: 1.5;
+}
+
+a :hover {
+  background-color: #f33;
 }
