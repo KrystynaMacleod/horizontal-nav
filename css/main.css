@@ -28,7 +28,7 @@ h1 {
 nav ul li {
   display: inline-block;
   margin: 0;
-  padding: .6em .5em .75em;
+  padding: 0;
   border-radius: 4px;
   background-color: #713837;
   color: #fff;
