@@ -20,7 +20,7 @@ h1 {
   display: block;
   margin: 0;
   padding: 0.5em 0.75em;
-  font-family: 'Bevan', sans-serif;
+  font-family: "Bevan", sans-serif;
   color: #fff;
   text-align: center;
 }
@@ -32,7 +32,7 @@ nav ul li {
   border-radius: 3px;
   background-color: #713837;
   text-align: center;
-  font-family: sans-serif, serif;
+  font-family: "sans-serif", serif;
 }
 
 a {
