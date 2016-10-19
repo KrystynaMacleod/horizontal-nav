@@ -48,4 +48,7 @@ a {
 a:hover {
   background-color: #f33;
   color: #fff;
+  padding: .6em .5em .75em;
+  margin: .3em
+  max-width: 20em;
 }
